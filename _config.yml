@@ -25,10 +25,10 @@ author:
   name             : "Vincent Paradis"
   # pronouns         : # example: "she/her"  
   bio              : "Electronic developper, 3D and woodworker enthousiast."
-  location         : "Mtl, Canada"
+  location         : "Montreal, Canada"
   employer         : "Robocut Studio"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
