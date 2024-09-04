@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Developper - Robocut Studio
+* Developper - Robocut Studio (2019-present)
   * Programmation
   * PCB design
   * 3D design and printing
@@ -41,8 +41,6 @@ Skills
   * KiCad
   * FreeCAD
   * Unity
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Hardware
+  * Installation
+  * Assembly
