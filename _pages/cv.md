@@ -18,10 +18,17 @@ Work experience
 ======
 * Developper - Robocut Studio (2019-present)
   * Programmation
+    * C++/C
+    * ~ Python
+    * ~ Unity
+    * ~ Max/MSP
   * PCB design
+    * Sensors
+    * MCU shield
   * 3D design and printing
   * Documentation
-  * Unity
+  * Installation
+  * Maintenance
 
 * Intern - ONF (2018)
   * Programmation
@@ -29,6 +36,7 @@ Work experience
   * Sound integration
   * Deployment (Android/Iphone)
   
+
 Skills
 ======
 * Programmation
@@ -41,6 +49,7 @@ Skills
   * KiCad
   * FreeCAD
   * Unity
+  * VSCode
 * Hardware
   * Installation
   * Assembly
