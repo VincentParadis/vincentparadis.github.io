@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Interactive Media - UQAM (2016-2019)
-* DEC Multimedia Integration - Cegep Édouard-Montpetit
+* B.A. Média Interactif - UQAM (2016-2019)
+* DEC Intégration Multimédia - Cegep Édouard-Montpetit (2012-2016)
 
 Work experience
 ======
@@ -25,31 +25,35 @@ Work experience
   * PCB design
     * Sensors
     * MCU shield
-  * 3D design and printing
+  * 3D design et impression
   * Documentation
   * Installation
   * Maintenance
 
 * Intern - ONF (2018)
   * Programmation
-  * Creation
-  * Sound integration
-  * Deployment (Android/Iphone)
+  * Création
+  * Intégration Sonore
+  * Déploiement (Android/Iphone)
+  * Test UX/UI
+
+* Auxilière d'enseignement - UQAM (2019)
+  * Aide aux étudiants dans leur processur créatif
+  * Aide aux professeurs durant les ateliers
   
 
 Skills
 ======
 * Programmation
   * C++/C
-* Electronic
-  * PCB Design
-  * Hardware design
-  * Assembly
-* Software
+* Électronic
+  * Design PCB
+  * Assemblage
+* Logiciel
   * KiCad
   * FreeCAD
   * Unity
   * VSCode
-* Hardware
+* Physique
   * Installation
-  * Assembly
+  * Assemblage
