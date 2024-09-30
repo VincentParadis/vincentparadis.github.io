@@ -6,6 +6,8 @@ collection: portfolio
 
 Role : Technical Director - La Centrale
 
+<hr>
+
 Contribution :
 * Hardware 
   * Construction
@@ -15,9 +17,8 @@ Contribution :
   * Code review
 * Other
   * Documentation
-  * Team Management
-  * Project Management
-  * Contact with supplier
+  * Gestion de l'équipe
+  * Gestion de projet
 
 <hr>
 
@@ -33,8 +34,8 @@ Le projet représente une station abandonnée au centre du quartier Latin. Les u
 
 Grâce à des électroaimants installés aux extrémités des câbles, les utilisateurs peuvent reconnecter les câbles allumés avec les câbles éteints. À la façon d'un synthétiseur, chaque nouvelle connexion amplifie les effets visuels et sonores. Lorsque chaque câble a retrouvé son partenaire, une surchauffe se produit et tous les électroaimants se désactivent et se relâchent.
 
-<img src="/images/LMDF/LMDF_Smoke.jpg" width ="873">
 
+<img src="/images/LMDF/LMDF_COMPLET.jpg" width ="873">
 
 ***Vidéo de lancement Montréal en Lumière 2019***
 
@@ -42,10 +43,10 @@ Grâce à des électroaimants installés aux extrémités des câbles, les utili
 
 
 ### Galerie
-
+<img src="/images/LMDF/LMDF_Smoke.jpg" width ="873">
 <img src="/images/LMDF/LMDF_Idle.jpg" width ="873">
-<img src="/images/LMDF/LMDF_DE_01.jpg" width ="873">
+<img src="/images/LMDF/LMDF_game2.jpg.jpg" width ="873">
 <img src="/images/LMDF/LMDF_DE_02.jpg" width ="873">
-<img src="/images/LMDF/LMDF_DE_03.jpg" width ="873">
+<img src="/images/LMDF/LMDF_game3.jpg" width ="873">
 <img src="/images/LMDF/LMDF_DE_04.jpg" width ="873">
 <img src="/images/LMDF/LMDF_DE_05.jpg" width ="873">
