@@ -41,6 +41,8 @@ Skills
   * KiCad
   * FreeCAD
   * Unity
+  * PlatformIO
+  * Vscode
 * Hardware
   * Installation
   * Assembly
