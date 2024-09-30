@@ -20,6 +20,8 @@ Clit-moi est un nouvel outil ludique pour combler le fossé orgasmique, un jeu q
 
 <iframe width="1236" height="695" src="https://www.youtube.com/embed/oPcJIKG72BA" title="Dessine-moi un pénis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<hr>
+
 ### Nomination 
 
 Prix NUMIX (2020) - Finaliste Création Numérique - Relève étudiante
@@ -29,6 +31,7 @@ Sélection Officielle
 
 NewImages Festtival, Paris, France (2019) - La VR Competition Expériences numériques interactives (hors XR)
 
+<hr>
 
 ### Galerie
 
