@@ -19,6 +19,7 @@ Contribution :
   * Project Management
   * Contact with supplier
 
+<hr>
 
 Projet final des finissants du baccalauréat en Média Interactif.
 
@@ -27,7 +28,6 @@ La mécanique des fluides était déployée sur deux lieux, la station de métro
 ## La Centrale
 
 <img src="/images/LMDF/LMDF_Stack.jpg" width ="873">
-
 
 Le projet représente une station abandonnée au centre du quartier Latin. Les utilisateurs ont pour mission de réparer la station afin de faire revenir le courant.
 

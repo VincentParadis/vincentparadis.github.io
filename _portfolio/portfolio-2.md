@@ -22,14 +22,12 @@ Clit-moi est un nouvel outil ludique pour combler le fossé orgasmique, un jeu q
 
 ### Nomination 
 
-Prix NUMIX 2020
-Finaliste Création Numérique - Relève étudiante
+Prix NUMIX (2020) - Finaliste Création Numérique - Relève étudiante
 
-Sheffield International Documentary Festival, Sheffield, United Kingdom (2019)
+Sheffield International Documentary Festival, Sheffield, United Kingdom (2019) - 
 Sélection Officielle
 
-NewImages Festtival, Paris, France (2019)
-La VR Competition - Expériences numériques interactives (hors XR)
+NewImages Festtival, Paris, France (2019) - La VR Competition Expériences numériques interactives (hors XR)
 
 
 ### Galerie
