@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working at <a href="https://robocutstudio.com/">Robocut Studio</a> as an developper. My task require me to work in multiple discipline such as programming, PCB design, 3D modeling and printing and much more.
+Je travail présentement chez <a href="https://robocutstudio.com/">Robocut Studio</a> comme déveleppeur. Mon travail me permet d'effectuer plusieurs tâches dans divers domaines comme la programmation, le design et l'assemblage de PCB, le design de pièce 3D ainsi que l'impression 3D. 
 
-I have a bachelor degree in Interactive Media from UQAM and a collegial degree in Media Instegration from cegep Édouard-Montpetit.
+Je possède un baccalauréat en médias interactifs de l'UQAM et un diplôme d'études collégiales en intégration des médias du cégep Édouard-Montpetit.
 
 vincent{dot}paradis94{@}gmail{dot}dcom 
