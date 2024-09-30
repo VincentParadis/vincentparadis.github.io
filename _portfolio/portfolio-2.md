@@ -6,7 +6,9 @@ collection: portfolio
 
 Role : Création - Programmation
 
-<a href="https://www.onf.ca/interactif/clitmoi/">ONF - Clit-moi</a>
+À essayer sur mobile seulement juste ici : <a href="https://clitmoi.onf.ca/">Clit-moi</a>
+
+<a href="https://www.onf.ca/interactif/clitmoi/">Site officiel de l'ONF</a>
 
 Projet dans le cadre du stage Jeunes Pousses en 2019.
 
@@ -14,7 +16,7 @@ Clit-moi est un nouvel outil ludique pour combler le fossé orgasmique, un jeu q
 
 <img src="/images/Clitmoi/cm_gif.gif" max-width ="1236">
 
-*** Dessine-moi un pénis ***
+***Dessine-moi un pénis***
 
 <iframe width="1236" height="695" src="https://www.youtube.com/embed/oPcJIKG72BA" title="Dessine-moi un pénis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

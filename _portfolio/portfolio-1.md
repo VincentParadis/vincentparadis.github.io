@@ -22,7 +22,7 @@ Contribution :
 
 Projet final des finissants du baccalauréat en Média Interactif.
 
-La mécanique des fluides était déployée sur les lieux, la station de métro Saint-Laurent et le 201 St-Catherine dans le pavillon V de l'UQAM.
+La mécanique des fluides était déployée sur deux lieux, la station de métro Saint-Laurent et le 201 St-Catherine dans le pavillon V de l'UQAM.
 
 ## La Centrale
 
