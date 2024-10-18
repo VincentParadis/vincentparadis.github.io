@@ -16,18 +16,32 @@ Education
 
 Work experience
 ======
-* Developper - Robocut Studio (2019-present)
-  * Programmation
-  * PCB design
-  * 3D design and printing
-  * Documentation
-  * Unity
+|  |  | 
+| :-- | :-- |
+| **Robocut Studio** | *Développeur (2019-present)* |
+| Programmation de diversion système |  |
+| Design de PCB | |
+| Design 3D et impression| |
+| Documentation | |
+| Développement Unity | |
+| Recherche et Développement | |
 
-* Intern - ONF (2018)
-  * Programmation
-  * Creation
-  * Sound integration
-  * Deployment (Android/Iphone)
+
+|  |  | 
+| :-- | :-- |
+| **ONF** | *Stagiaire (2018)* |
+| Programmation d'un jeu mobile |  |
+| Création et Conception | |
+| Intégration sonore | |
+| Déploiement (Android/Iphone) | |
+
+
+|  |  | 
+| :-- | :-- |
+| **BMR** | *Commis peinture (2010-2018)* |
+| Conseiller les clients |  |
+| S'assurer d'avoir un département propre | |
+| Formation des nouveaux employés | |
   
 Skills
 ======
