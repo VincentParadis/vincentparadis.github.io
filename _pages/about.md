@@ -11,4 +11,6 @@ Je travail présentement chez <a href="https://robocutstudio.com/">Robocut Studi
 
 Je possède un baccalauréat en médias interactifs de l'UQAM et un diplôme d'études collégiales en intégration des médias du cégep Édouard-Montpetit.
 
+J'ai un penchant pour la technologie et la science. J'aime 
+
 vincent{dot}paradis94{@}gmail{dot}dcom 
