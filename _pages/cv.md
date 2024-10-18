@@ -14,6 +14,7 @@ redirect_from:
 * B.A. in Interactive Media - UQAM (2016-2019)
 * DEC Multimedia Integration - Cegep Édouard-Montpetit
 
+<hr>
 
 # Expérience
 
@@ -23,13 +24,13 @@ redirect_from:
 - Design 3D et impression
 - Documentation 
 - Développement Unity 
-- Recherche et Développement 
+- Recherche et développement 
 
 <hr>
 
 **ONF** / *Stagiaire (2018)* 
 - Programmation d'un jeu mobile 
-- Création et Conception 
+- Création et conception 
 - Intégration sonore 
 - Déploiement (Android/Iphone) 
 
@@ -37,7 +38,6 @@ redirect_from:
 
 **BMR** / *Commis peinture (2010-2018)* 
 - Conseiller les clients 
-- S'assurer d'avoir un département propre 
 - Formation des nouveaux employés 
   
 <hr>
