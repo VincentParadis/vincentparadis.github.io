@@ -8,6 +8,8 @@ Même avec un intérêt pour les nouvelles technologies, je suis aussi attiré p
 
 J'utilise principalement mon appareil pour documenter les différents projets sur lesquels j'ai travaillé et aussi comme journal personnel.
 
+<hr>
+
 <img src="/images/Argentique/01.JPG" max-width ="1236">
 <img src="/images/Argentique/02.JPG" max-width ="1236">
 <img src="/images/Argentique/03.JPG" max-width ="1236">
