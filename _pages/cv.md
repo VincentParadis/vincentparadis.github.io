@@ -42,20 +42,22 @@ redirect_from:
   
 <hr>
 
-# Skills
+# Compétances
 
 * Programmation
-  * C++/C
+  * C++/C#
 * Electronic
   * PCB Design
-  * Hardware design
-  * Assembly
-* Software
+  * Assemblage
+  * Installation
+  * Réparation
+* Logiciel
   * KiCad
   * FreeCAD
   * Unity
   * PlatformIO
-  * Vscode
+  * VScode
+  * Max/MSP
 * Hardware
   * Installation
-  * Assembly
+  * Assemblage
