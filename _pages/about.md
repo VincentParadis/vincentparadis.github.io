@@ -13,6 +13,6 @@ Je suis développeur chez [Robocut Studio](https://robocutstudio.com/), où je p
 
 Au fil des années, j’ai eu la chance de contribuer à des projets pour des clients d’envergure tels qu’Hydro-Québec, Loto-Québec, le Quartier des spectacles de Montréal, le Centre des Sciences de Montréal, ainsi que les musées de la crème glacée de Miami et de Boston. J’interviens autant dans la création de nouveaux dispositifs interactifs que dans la maintenance et l’évolution d’installations existantes.
 
-Je détiens un baccalauréat en Médias interactifs de l’UQAM ainsi qu’une [Technique en Intégration des Médias](https://dectim.ca/) du cégep Édouard-Montpetit.
+Je détiens un baccalauréat en Médias interactifs de l’UQAM ainsi qu’une Technique en Intégration des Médias du cégep Édouard-Montpetit.
 
 📧 vincent{dot}paradis94{@}gmail{dot}com
