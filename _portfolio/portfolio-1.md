@@ -4,7 +4,7 @@ excerpt: "Installation immersives <br/><img src='/images/LMDF/LMDF_01.jpg'>"
 collection: portfolio
 ---
 
- ## Rôle : Directeur Technique - La Centrale
+<h2> Rôle : Directeur Technique - La Centrale </h2>
 
 <hr>
 
