@@ -45,7 +45,7 @@ Grâce à des électroaimants installés aux extrémités des câbles, les utili
 ### Galerie
 <img src="/images/LMDF/LMDF_Smoke.jpg" width ="873">
 <img src="/images/LMDF/LMDF_Idle.jpg" width ="873">
-<img src="/images/LMDF/LMDF_game2.jpg.jpg" width ="873">
+<img src="/images/LMDF/LMDF_game2.jpg" width ="873">
 <img src="/images/LMDF/LMDF_DE_02.jpg" width ="873">
 <img src="/images/LMDF/LMDF_game3.jpg" width ="873">
 <img src="/images/LMDF/LMDF_DE_04.jpg" width ="873">
