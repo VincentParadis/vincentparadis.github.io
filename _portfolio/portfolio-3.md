@@ -6,7 +6,7 @@ collection: portfolio
 
 Même avec un intérêt pour les nouvelles technologies, je suis aussi attiré par certaines formes de technologie considérées comme étant désuètes. 
 
-J'utilise principalement mon appareil pour documenter les différents projets sur lesquels j'ai travaillé et aussi comme journal personnel.
+J'utilise principalement mon appareil pour documenter les différents projets sur lesquels j'ai travaillé.
 
 <hr>
 

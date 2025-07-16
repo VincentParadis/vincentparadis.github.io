@@ -55,9 +55,10 @@ redirect_from:
   * KiCad
   * FreeCAD
   * Unity
-  * PlatformIO
   * VScode
+  * PlatformIO  
   * Max/MSP
 * Hardware
   * Installation
   * Assemblage
+  * Maintenance
