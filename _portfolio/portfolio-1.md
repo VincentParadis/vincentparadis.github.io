@@ -6,18 +6,22 @@ collection: portfolio
 
 <h2> Rôle : Directeur Technique - La Centrale </h2>
 
-<hr>
+<img src="/images/LMDF/LMDF_01.jpg" width ="873">
 
 Contribution :
-* Hardware 
-  * Construction
-  * Installation
-* Software
-  * Programmation
-  * Code review
-* Other
-  * Documentation
-  * Gestion de l'équipe
+- Hardware 
+  * Assemblage des différentes composantes physiques
+  * Recherche de solutions matérielles adaptées
+  * Installation et ajustement des composants sur le terrain
+- Logiciel
+  * Analyse des différents défis techniques
+  * Correction et modification des systèmes existants
+  * Développement de systèmes sonores dans Max/MSP
+- Autre
+  * Rédaction de documentation technique
+  * Direction technique
+  * Gestion des différents fournisseurs
+  * Encadrement et coordination de l'équipe
   * Gestion de projet
 
 <hr>
@@ -30,9 +34,9 @@ La mécanique des fluides était déployée sur deux lieux, la station de métro
 
 <img src="/images/LMDF/LMDF_Stack.jpg" width ="873">
 
-Le projet représente une station abandonnée au centre du quartier Latin. Les utilisateurs ont pour mission de réparer la station afin de faire revenir le courant.
+Le projet représente une station abandonnée au centre du quartier Latin. Les utilisateurs ont pour mission de réparer la station afin de faire revenir l'alimentation.
 
-Grâce à des électroaimants installés aux extrémités des câbles, les utilisateurs peuvent reconnecter les câbles allumés avec les câbles éteints. À la façon d'un synthétiseur, chaque nouvelle connexion amplifie les effets visuels et sonores. Lorsque chaque câble a retrouvé son partenaire, une surchauffe se produit, vidant les câbles de leur énergie et tous les électroaimants se désactivent au même moment, créant un mouvement de pendule avec tous les câbles.
+Grâce à des électroaimants installés aux extrémités des câbles, les utilisateurs peuvent reconnecter les câbles allumés avec ceux éteints. À la manière d’un synthétiseur, chaque nouvelle connexion amplifie les effets visuels et sonores. Une fois que chaque câble a retrouvé son partenaire, une surchauffe simulée se déclenche : l’énergie se vide des câbles, les électroaimants se désactivent simultanément, et tous les câbles se mettent alors en mouvement, oscillant comme un pendule collectif.
 
 <img src="/images/LMDF/LMDF_COMPLET.jpg" width ="873">
 

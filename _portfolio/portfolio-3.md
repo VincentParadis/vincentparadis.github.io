@@ -18,7 +18,7 @@ J'utilise principalement mon appareil pour documenter les différents projets su
 <img src="/images/Argentique/06.JPG" max-width ="1236">
 <img src="/images/Argentique/07.JPG" max-width ="1236">
 <img src="/images/Argentique/08.JPG" max-width ="1236">
-<img src="/images/Argentique/09.JPG" max-width ="1236">
+<img src="/images/Argentique/09.jpg" max-width ="1236">
 <img src="/images/Argentique/10.JPG" max-width ="1236">
 <img src="/images/Argentique/11.JPG" max-width ="1236">
-<img src="/images/Argentique/12.JPG" max-width ="1236">
+<img src="/images/Argentique/12.jpg" max-width ="1236">
