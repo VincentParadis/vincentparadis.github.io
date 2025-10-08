@@ -1,6 +1,6 @@
 ---
 title: "Clit-moi"
-excerpt: "Jeu mobile <br/><img src='/images/Clitmoi/cm_hero.png'>"
+excerpt: "Jeu mobile explorant la santé sexuelle féminine <br/><img src='/images/Clitmoi/cm_hero.png'>"
 collection: portfolio
 ---
 

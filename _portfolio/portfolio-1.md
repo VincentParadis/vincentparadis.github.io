@@ -1,6 +1,6 @@
 ---
 title: "La mécanique des fluides"
-excerpt: "Installation immersives <br/><img src='/images/LMDF/LMDF_01.jpg'>"
+excerpt: "Installation immersives présenter dans le cadre de Montréal en Lumière <br/><img src='/images/LMDF/LMDF_01.jpg'>"
 collection: portfolio
 ---
 
