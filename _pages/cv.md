@@ -24,12 +24,15 @@ redirect_from:
 - Design 3D et impression
 - Documentation 
 - Développement Unity 
-- Recherche et développement 
+- Recherche et développement
+- Contrôle qualité des systèmes software et hardware
+- Maintenance et installation
+- Aide aux autres départements
 
 <hr>
 
 **ONF** / *Stagiaire (2018)* 
-- Programmation d'un jeu mobile 
+- Programmation d'un jeu mobile  
 - Création et conception 
 - Intégration sonore 
 - Déploiement (Android/Iphone) 
@@ -61,4 +64,13 @@ redirect_from:
 * Hardware
   * Installation
   * Assemblage
-  * Maintenance
+  * Maint 
+
+
+# Intérêts
+- Photographie
+- Musique
+- Jeux video
+- Technologies anciennes
+- Science 
+- Claviers mécaniques
