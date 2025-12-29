@@ -12,7 +12,7 @@ collection: portfolio
 
 Projet dans le cadre du stage Jeunes Pousses en 2019. 
 
-Contribution :
+<h3>Contribution : </h3>
 - Logiciel
     * Intégration sonore
     * Détection des différents touchés

@@ -8,10 +8,10 @@ collection: portfolio
 
 Leduc 0.22 s'inpire des avions expérimentaux réalisés par l'ingénieur français <a href="https://fr.wikipedia.org/wiki/Leduc_(avion)" target="_blank"> René Leduc </a>
 
-Contribution :
+<h3>Contribution : </h3>
 - Logiciel
     * Programmation des différentes interfaces
-    * Test des différentes interfaces en communication avec l'engin Unity
+    * Tests des différentes interfaces en communication avec l'engin Unity
 - Hardware 
     * Création des différentes interfaces
     * Fabrication des interfaces
@@ -23,7 +23,7 @@ Contribution :
 
 ### Description
 
-L'utilisateur utilise une interface physique faite sur mesure afin de traverser différent monde n'utilisant pas les lois de notre univers. 
+L'utilisateur utilise une interface physique faite sur mesure afin de traverser différent monde n'utilisant pas les lois de notre univers.  
 
 <img src="/images/Leduc/leduc_8.jpg" max-width ="1236">
 

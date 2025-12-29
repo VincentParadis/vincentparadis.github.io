@@ -10,7 +10,7 @@ Y meurt à fin est une expérience de réalité virtuelle où le participant doi
 
 En collaboration avec Mélisandre Bouchard-Berger et Marc-Antoine Gautreau. ​​​​​​​
 
-Contribution :
+<h3>Contribution : </h3>
 - Logiciel
     * Création d'une trame sonore
     * Test des différentes mécaniques de jeux
