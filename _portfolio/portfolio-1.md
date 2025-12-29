@@ -8,7 +8,7 @@ collection: portfolio
 
 <img src="/images/LMDF/LMDF_01.jpg" width ="873">
 
-Contribution :
+<h3>Contribution : </h3>
 - Hardware 
   * Assemblage des différentes composantes physiques
   * Recherche de solutions matérielles adaptées
