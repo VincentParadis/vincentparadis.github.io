@@ -49,8 +49,8 @@ redirect_from:
 
 * Programmation
   * C++/C#
-* Electronic
-  * PCB Design
+* Electronique
+  * Design de circuit életronic (PCB)
   * Assemblage
   * Installation
   * Réparation
@@ -60,11 +60,17 @@ redirect_from:
   * Unity
   * VScode
   * PlatformIO  
-  * Max/MSP
 * Hardware
   * Installation
   * Assemblage
-  * Maint                                          
+  * Maintenance 
+  * Réparation     
+* Gestion
+  * Organisation et planification des projets
+  * Gestion des clients
+  * Production de projet 
+  * Planification du développement
+  * Commande et suivit des inventaires
 
 <hr>
 
