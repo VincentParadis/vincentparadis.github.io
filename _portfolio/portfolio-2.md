@@ -4,15 +4,22 @@ excerpt: "Jeu mobile explorant la santé sexuelle féminine <br/><img src='/imag
 collection: portfolio
 ---
 
-Role : Création - Programmation
+<h2> Rôle : Création - Programmation </h2>
 
-À essayer sur mobile seulement juste ici : <a href="https://clitmoi.onf.ca/">Clit-moi</a>
+À essayer sur mobile seulement juste ici : <a href="https://clitmoi.onf.ca/" target="_blank">Clit-moi</a>
 
-<a href="https://www.onf.ca/interactif/clitmoi/">Site officiel de l'ONF</a>
+<a href="https://www.onf.ca/interactif/clitmoi/" target="_blank">Site officiel de l'ONF</a>
 
-Projet dans le cadre du stage Jeunes Pousses en 2019.
+Projet dans le cadre du stage Jeunes Pousses en 2019. 
 
-Clit-moi est un nouvel outil ludique pour combler le fossé orgasmique, un jeu qui explore sans tabou la satisfaction sexuelle féminine avec le seul organe destiné uniquement au plaisir : le clitoris !
+Contribution :
+- Logiciel
+    * Intégration sonore
+    * Détection des différents touchés
+    * Assurance qualité
+    * Déploiement sur Iphone et Android
+
+Clit-moi est un outil ludique pour combler le fossé orgasmique, un jeu qui explore sans tabou la satisfaction sexuelle féminine avec le seul organe destiné uniquement au plaisir : le clitoris!
 
 <img src="/images/Clitmoi/cm_gif.gif" max-width ="1236">
 

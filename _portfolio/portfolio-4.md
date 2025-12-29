@@ -4,9 +4,18 @@ excerpt: "Expérience immersive d'exploration de monde génératif <br/><img src
 collection: portfolio
 ---
 
-Role : Directeur Technique - Fabrication 
+<h2> Rôle : Directeur Technique - Fabrication </h2> 
 
-Leduc 0.22 s'inpire des avions expérimentaux réalisés par l'ingénieur français [René Leduc](https://fr.wikipedia.org/wiki/Leduc_(avion)). 
+Leduc 0.22 s'inpire des avions expérimentaux réalisés par l'ingénieur français <a href="https://fr.wikipedia.org/wiki/Leduc_(avion)" target="_blank"> René Leduc </a>
+
+Contribution :
+- Logiciel
+    * Programmation des différentes interfaces
+    * Test des différentes interfaces en communication avec l'engin Unity
+- Hardware 
+    * Création des différentes interfaces
+    * Fabrication des interfaces
+    * Assemblage électronique
 
 <img src="/images/Leduc/leduc_1.jpg" max-width ="1236">
 
@@ -18,7 +27,7 @@ L'utilisateur utilise une interface physique faite sur mesure afin de traverser 
 
 <img src="/images/Leduc/leduc_8.jpg" max-width ="1236">
 
-L'expérience se fait en duo, un pilote ainsi qu'un co-polite. Chaque rôle permet de contrôler le plus grand nombre de paramètre de l'expérience par les choix de directions pour  l'exploration, le choix de l'ambiance sonore grâce à une radio pour chaque monde ainsi que la vitesse du zeppelin.  
+L'expérience se fait en duo, un pilote ainsi qu'un co-polite. Chaque rôle contribue à l'expérience par les choix de directions pour l'exploration, le choix de l'ambiance sonore grâce à une radio pour chaque monde ainsi que la vitesse de l'engin.
 
 <hr>
 

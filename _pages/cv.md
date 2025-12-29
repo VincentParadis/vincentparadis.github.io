@@ -64,8 +64,9 @@ redirect_from:
 * Hardware
   * Installation
   * Assemblage
-  * Maint 
+  * Maint                                          
 
+<hr>
 
 # Intérêts
 - Photographie
