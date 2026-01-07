@@ -19,15 +19,14 @@ redirect_from:
 # Expérience
 
 **Robocut Studio** / *Développeur (2019-present)*
-- Programmation de diversion système
-- Design de PCB 
+- Programmation de diversion système logiciel tel qu'arduino ou Unity
+- Design de circuit électronique 
 - Design 3D et impression
 - Documentation 
-- Développement Unity 
-- Recherche et développement
+- Développement de librairies pour des produits internes (PCB, hardware)
 - Contrôle qualité des systèmes software et hardware
 - Maintenance et installation
-- Aide aux autres départements
+- Aide aux autres départements comme la fabrication, finition et la conception
 
 <hr>
 
@@ -45,12 +44,12 @@ redirect_from:
   
 <hr>
 
-# Compétances
+# Compétences
 
 * Programmation
   * C++/C#
 * Electronique
-  * Design de circuit életronic (PCB)
+  * Design de circuit életronique (PCB)
   * Assemblage
   * Installation
   * Réparation

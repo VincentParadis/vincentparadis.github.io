@@ -4,6 +4,8 @@ excerpt: "Installation immersives présenter dans le cadre de Montréal en Lumi�
 collection: portfolio
 ---
 
+Projet final des finissants du baccalauréat en Média Interactif.
+
 <h2> Rôle : Directeur Technique - La Centrale </h2>
 
 <img src="/images/LMDF/LMDF_01.jpg" width ="873">
@@ -25,8 +27,6 @@ collection: portfolio
   * Gestion de projet
 
 <hr>
-
-Projet final des finissants du baccalauréat en Média Interactif.
 
 La mécanique des fluides était déployée sur deux lieux, la station de métro Saint-Laurent et le 201 St-Catherine dans le pavillon V de l'UQAM.
 

@@ -4,9 +4,9 @@ excerpt: "Expérience VR utilisant la peur et le suspence <br/><img src='/images
 collection: portfolio
 ---
 
-<h2> Rôle : Création Sonore </h2>
-
 Y meurt à fin est une expérience de réalité virtuelle où le participant doit protéger sa maisonette d’une force énigmatique et insondable avec les objets et les outils mis à sa disposition.
+
+<h2> Rôle : Création Sonore </h2>
 
 En collaboration avec Mélisandre Bouchard-Berger et Marc-Antoine Gautreau. ​​​​​​​
 

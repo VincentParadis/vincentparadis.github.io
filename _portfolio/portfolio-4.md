@@ -4,9 +4,11 @@ excerpt: "Expérience immersive d'exploration de monde génératif <br/><img src
 collection: portfolio
 ---
 
+Leduc 0.22 s'inpire des avions expérimentaux réalisés par l'ingénieur français <a href="https://fr.wikipedia.org/wiki/Leduc_(avion)" target="_blank"> René Leduc </a>. 
+
 <h2> Rôle : Directeur Technique - Fabrication </h2> 
 
-Leduc 0.22 s'inpire des avions expérimentaux réalisés par l'ingénieur français <a href="https://fr.wikipedia.org/wiki/Leduc_(avion)" target="_blank"> René Leduc </a>
+
 
 <h3>Contribution : </h3>
 - Logiciel
