@@ -16,7 +16,7 @@ redirect_from:
 
 <hr>
 
-## Expérience
+## Expériences
 
 *Pour toute référence, veuillez me contacter directement.*
 
