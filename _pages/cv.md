@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-# Éducation
+## Éducation
 
 * B.A. Média Interactif - UQAM (2016-2019)
 * DEC. Technique d'Intégration Multimédia - Cégep Édouard-Montpetit (2012-1016)
 
 <hr>
 
-# Expérience
+## Expérience
+
+*Pour toute référence, veuillez me contacter directement.*
 
 **Robocut Studio** / *Développeur (2019-present)*
 - Programmation de diversion système logiciel tel qu'Arduino ou Unity
@@ -49,7 +51,7 @@ redirect_from:
 - Montage vidéo
 - Création de modèle de montage pour futur publication
 - Animation des logos et des assets de l'entreprise
-- Tournage de capsule 
+- Tournage de capsules
 
 <hr>
 
@@ -68,7 +70,7 @@ redirect_from:
 
 <hr>
 
-# Compétences
+## Compétences
 
 * Programmation
   * C++/C#
@@ -98,7 +100,7 @@ redirect_from:
 
 <hr>
 
-# Intérêts
+## Intérêts
 - Photographie
 - Musique
 - Jeux video
