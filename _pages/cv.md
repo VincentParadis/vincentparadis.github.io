@@ -102,6 +102,7 @@ redirect_from:
 - Photographie
 - Musique
 - Jeux video
+- Balle-molle
 - Technologies anciennes
 - Science & Politique
 - Claviers mécaniques
