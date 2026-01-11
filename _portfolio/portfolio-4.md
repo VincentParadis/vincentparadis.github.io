@@ -1,6 +1,6 @@
 ---
 title: "Leduc 0.22"
-excerpt: "Expérience immersive d'exploration de monde génératif <br/><img src='/images/Leduc/leduc_beauty.jpg'>"
+excerpt: "Expérience immersive dans une série de mondes génératifs <br/><img src='/images/Leduc/leduc_beauty.jpg'>"
 collection: portfolio
 ---
 

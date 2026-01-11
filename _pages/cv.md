@@ -9,39 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# Éducation
 
-* B.A. in Interactive Media - UQAM (2016-2019)
-* DEC Multimedia Integration - Cegep Édouard-Montpetit
+* B.A. Média Interactif - UQAM (2016-2019)
+* DEC. Technique d'Intégration Multimédia - Cégep Édouard-Montpetit (2012-1016)
 
 <hr>
 
 # Expérience
 
 **Robocut Studio** / *Développeur (2019-present)*
-- Programmation de diversion système logiciel tel qu'arduino ou Unity
+- Programmation de diversion système logiciel tel qu'Arduino ou Unity
 - Design de circuit électronique 
-- Design 3D et impression
-- Documentation 
 - Développement de librairies pour des produits internes (PCB, hardware)
 - Contrôle qualité des systèmes software et hardware
+- Documentation 
+- Design 3D et impression
 - Maintenance et installation
-- Aide aux autres départements comme la fabrication, finition et la conception
+- Aide aux autres départements (fabrication, finition, design et gestion)
+
+<hr>
+
+**UQAM** / *Auxiliaire d'enseigment (2019)*
+- Aide à l'enseignement durant les ateliers
+- Aider les étudiants dans leur processu créatif
+- Trouver des solutions aux problèmes des étudiants
 
 <hr>
 
 **ONF** / *Stagiaire (2018)* 
-- Programmation d'un jeu mobile  
+- Programmation d'un jeu mobile  sur la santé sexuelle féminine
 - Création et conception 
 - Intégration sonore 
 - Déploiement (Android/Iphone) 
 
 <hr>
 
+**booxi** / *Stagiaire (2016-2017)*
+- Montage vidéo
+- Création de modèle de montage pour futur publication
+- Animation des logos et des assets de l'entreprise
+- Tournage de capsule 
+
+<hr>
+
+**Collège Durocher Saint-Lambert** / *Entraîneur de football (2011-2015)*
+- Responsable des porteurs de ballons (cadet et juvénile)
+- Apprendre les techniques aux joueurs
+- Garder une discipline au sein de l'équipe
+- Encourager le soutient entre les joueurs et démontrer une éthique de travail
+
+<hr>
+
 **BMR** / *Commis peinture (2010-2018)* 
 - Conseiller les clients 
 - Formation des nouveaux employés 
-  
+- Aide aux autres départements
+
 <hr>
 
 # Compétences
@@ -60,6 +84,7 @@ redirect_from:
   * VScode
   * PlatformIO  
 * Hardware
+  * Fabrication
   * Installation
   * Assemblage
   * Maintenance 
@@ -78,5 +103,5 @@ redirect_from:
 - Musique
 - Jeux video
 - Technologies anciennes
-- Science 
+- Science & Politique
 - Claviers mécaniques

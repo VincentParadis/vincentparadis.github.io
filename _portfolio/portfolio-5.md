@@ -1,6 +1,6 @@
 ---
 title: "Argentique"
-excerpt: "Photographie, aventure personnel et documentation <br/><img src='/images/Argentique/95560030.JPG'>"
+excerpt: "Photographie, aventure personnel et documentation <br/><img src='/images/Argentique/hero_argentique.JPG'>"
 collection: portfolio
 ---
 

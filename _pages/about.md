@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Vincent Paradis est un développeur chez <a href="https://robocutstudio.com/" target="_blank">Robocut Studio</a>, où il combine technologie et rigueur pour donner vie à des projets interactifs. Son travail mêle la rencontre entre programmation, design, électronique et fabrication numérique, allant de l’assemblage de circuits imprimés à la création d’expériences immersives et lumineuses.
+Vincent Paradis est un développeur chez <a href="https://robocutstudio.com/" target="_blank">Robocut Studio</a>, où il combine technologie et rigueur pour donner vie à des projets interactifs. Son travail mêle la rencontre entre programmation, design, électronique et fabrication numérique, allant de l’assemblage de circuits imprimés à la création d’expériences immersives.
 
 Depuis le début de sa carrière, il a contribué à des projets d’envergure pour Hydro-Québec, Loto-Québec, le Quartier des Spectacles, le Centre des sciences de Montréal, ainsi que pour les Musées de la crème glacée de Miami, Boston et New York. Ces collaborations lui ont permis de développer une expertise à la croisée de l’art, de la technologie et de l’expérience utilisateur, où la rigueur technique se met au service de la créativité.
 
