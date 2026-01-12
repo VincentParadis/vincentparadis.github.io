@@ -23,11 +23,11 @@ J'utilise mon appareil pour documenter les différents projets sur lesquels j'ai
 <img src="/images/Argentique/10.JPG" max-width ="1236">
 <img src="/images/Argentique/11.JPG" max-width ="1236">
 <img src="/images/Argentique/12.jpg" max-width ="1236">
-<img src="/images/Argentique/13.jpg" max-width ="1236">
-<img src="/images/Argentique/14.JPG" max-width ="1236">
+<img src="/images/Argentique/13.JPG" max-width ="1236">
+<img src="/images/Argentique/14.jpg" max-width ="1236">
 <img src="/images/Argentique/15.JPG" max-width ="1236">
-<img src="/images/Argentique/16.jpg" max-width ="1236">
-<img src="/images/Argentique/17.jpg" max-width ="1236">
-<img src="/images/Argentique/18.JPG" max-width ="1236">
+<img src="/images/Argentique/16.JPG" max-width ="1236">
+<img src="/images/Argentique/17.JPG" max-width ="1236">
+<img src="/images/Argentique/18.jpg" max-width ="1236">
 <img src="/images/Argentique/19.JPG" max-width ="1236">
-<img src="/images/Argentique/20.jpg" max-width ="1236">
+<img src="/images/Argentique/20.JPG" max-width ="1236">
