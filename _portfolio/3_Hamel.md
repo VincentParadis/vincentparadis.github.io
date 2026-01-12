@@ -1,6 +1,6 @@
 ---
 title: "Lampion Hamel"
-excerpt: "Consultation pour le design électrique <br/><img src='/images/Argentique/hero_argentique.JPG'>"
+excerpt: "Consultation pour le design électrique <br/><img src='/images/Hamel/hamel-04.jpg'>"
 collection: portfolio
 ---
 
