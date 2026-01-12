@@ -21,7 +21,7 @@ repository               : "vincentparadis/vincentparadis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vinparvin.jpg"
   name             : "Vincent Paradis"
   # pronouns         : # example: "she/her"  
   bio              : "Développeur électronique"
